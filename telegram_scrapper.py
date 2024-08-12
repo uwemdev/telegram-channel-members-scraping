@@ -1,6 +1,6 @@
 ####################################################################################################
 
-### Libraries/Modules ###
+### Libraries/Modules Needed ###
 
 from telethon import TelegramClient, sync
 from telethon.tl.functions.channels import GetParticipantsRequest
